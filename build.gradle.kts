@@ -46,7 +46,7 @@ dependencies {
     implementation("org.ow2.asm:asm:9.9")
     implementation("org.ow2.asm:asm-tree:9.9")
     implementation("org.ow2.asm:asm-commons:9.9")
-    implementation("org.ow2.asm:asm-util:9.9")
+    implementation("org.ow2.asm:asm-util:9.9.1")
     implementation("com.formdev:flatlaf:3.6.2")
     compileOnly("org.projectlombok:lombok:1.18.42")
     annotationProcessor("org.projectlombok:lombok:1.18.42")
