@@ -41,7 +41,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.google.code.gson:gson:2.13.2")
+    implementation("com.google.code.gson:gson:2.14.0")
     implementation("org.apache.commons:commons-lang3:3.20.0")
     implementation("org.ow2.asm:asm:9.9.1")
     implementation("org.ow2.asm:asm-tree:9.9.1")
